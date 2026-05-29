@@ -1,0 +1,7 @@
+{
+  "name": "Disable 4-Finger Gestures",
+  "description": "Prevents Mutter from capturing 4-finger swipes, allowing external tools like Fusuma or libinput-gestures to use them safely.",
+  "uuid": "disable-4-fingers@youssefrbahi.github",
+  "shell-version": [ "50" ],
+  "url": "https://github.com/YoussefRbahi/gnome-disable-4-fingers"
+}
