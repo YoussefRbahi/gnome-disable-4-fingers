@@ -9,5 +9,5 @@ This lightweight extension hooks into `global.stage` to intercept and drop 4-fin
 * **3-Finger Swipes:** Passed through normally (retaining native GNOME workspace switching).
 
 ### Installation
-1. Download the release `.zip` or install directly from [GNOME Shell Extensions](#).
+1. Download the release `.zip` or install directly from [GNOME Shell Extensions](https://extensions.gnome.org/extension/10059/disable-4-finger-gestures/).
 2. Enable the extension via the GNOME Extensions app.
